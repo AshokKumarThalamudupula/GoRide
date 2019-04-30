@@ -1,0 +1,9 @@
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\bin\Debug\GoRideBL.dll
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\bin\Debug\GoRideBL.pdb
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\bin\Debug\GoRideDAL.dll
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\bin\Debug\GoRideModel.dll
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\bin\Debug\GoRideDAL.pdb
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\bin\Debug\GoRideModel.pdb
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\obj\Debug\GoRideBL.csprojResolveAssemblyReference.cache
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\obj\Debug\GoRideBL.dll
+C:\Users\764873\Documents\Visual Studio 2012\Projects\GoRide\GoRideBL\obj\Debug\GoRideBL.pdb

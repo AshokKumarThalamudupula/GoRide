@@ -1,0 +1,73 @@
+﻿body {
+    background-color:aquamarine;
+    
+    background: -webkit-linear-gradient(right, #76b852, #8DC26F);
+    background: -moz-linear-gradient(right, #76b852, #8DC26F);
+    background: -o-linear-gradient(right, #76b852, #8DC26F);
+    background: linear-gradient(to left, #76b852, #8DC26F);
+    background-image:url("images/1.jpg");
+    background-size:cover;
+   
+}
+#head {
+font-weight:900;
+text-align:center;
+color:white;
+text-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+}
+.input {
+    font-family: "Roboto", sans-serif;
+        outline: 1;
+        background: #f2f2f2;
+        height: 40%;
+        width: 100%;
+        border: 0;
+        margin: 0 0 15px;
+        padding: 15px;
+        box-sizing: border-box;
+        font-size: 14px;
+}
+#form1 {
+     position: relative;
+    z-index: 1;
+    background: rgba(7, 40, 195, 0.8);
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+}
+#forminput {
+margin-top:50px;
+padding-top:160px;
+}
+/*.forminput {
+ position: relative;
+    z-index: 1;
+    background: rgba(7, 40, 195, 0.8);
+    max-height: 100px;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+}*/
+.button {
+  font-family: "Roboto", sans-serif;
+        text-transform: uppercase;
+        outline: 0;
+        background: #4CAF50;
+        
+        border: 0;
+        padding: 15px;
+        color: #FFFFFF;
+        font-size: 14px;
+        cursor: pointer;
+        
+        display:inline-block;
+}
+#btnSignIn:hover,  #btnSignin:focus {
+    background: #1fe029;
+}
+#btnSignUp:hover, #btnSignup:focus {
+    background: #4274f4;
+}

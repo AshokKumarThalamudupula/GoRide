@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoRide", "GoRide\GoRide.csproj", "{1BC22DB7-C201-4669-AC85-B98B2416964C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoRideModel", "GoRideModel\GoRideModel.csproj", "{7B15DEDB-B6A4-4999-B829-63C7DC81EEA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoRideDAL", "GoRideDAL\GoRideDAL.csproj", "{F03434F1-D0FE-45D9-A318-FFC719101E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoRideBL", "GoRideBL\GoRideBL.csproj", "{72F77F77-E84C-48A3-AA87-5AE4D4AB042F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC22DB7-C201-4669-AC85-B98B2416964C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC22DB7-C201-4669-AC85-B98B2416964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC22DB7-C201-4669-AC85-B98B2416964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC22DB7-C201-4669-AC85-B98B2416964C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B15DEDB-B6A4-4999-B829-63C7DC81EEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B15DEDB-B6A4-4999-B829-63C7DC81EEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B15DEDB-B6A4-4999-B829-63C7DC81EEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B15DEDB-B6A4-4999-B829-63C7DC81EEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03434F1-D0FE-45D9-A318-FFC719101E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03434F1-D0FE-45D9-A318-FFC719101E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03434F1-D0FE-45D9-A318-FFC719101E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03434F1-D0FE-45D9-A318-FFC719101E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F77F77-E84C-48A3-AA87-5AE4D4AB042F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F77F77-E84C-48A3-AA87-5AE4D4AB042F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F77F77-E84C-48A3-AA87-5AE4D4AB042F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F77F77-E84C-48A3-AA87-5AE4D4AB042F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
